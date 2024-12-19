@@ -2,3 +2,57 @@ instructions.md
 todo.md
 PRD.md
 writeup_outline.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+LENT-Capstone-writeup.docx
+LENT-Capstone-writeup.pdf
+LENT-captone.ipynb.pdf
+LENT-writeup.md
+requirements.txt
